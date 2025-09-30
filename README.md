@@ -1,1 +1,1 @@
-added readme to demonstrate version control
+An R package that pivots World Bank mortality data from wide to long format.
